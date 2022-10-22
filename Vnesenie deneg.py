@@ -38,3 +38,4 @@ elif (sposob == 4):
 else:
       print("Неверный ответ")
 file.close()
+#всё
